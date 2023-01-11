@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Modulo 2 PrepCourse 
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde githube a mi computadora.
+
